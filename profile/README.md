@@ -1,4 +1,9 @@
-# Welcome to Techanv Consulting 👋
+<h1 align="center">
+<br>
+<img src=assets/techanv.png>
+<br>
+<strong>Welcome to Techanv Consulting 👋</strong>
+</h1>
 
 Welcome to Techanv Consulting, where we are committed to providing unparalleled IT solutions with an emphasis on professionalism, security, and excellence. Our mission is to empower businesses of all sizes with cutting-edge technology while maintaining the highest standards of integrity and trust.
 
