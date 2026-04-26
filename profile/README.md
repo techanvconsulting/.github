@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/We_believe_in_202604262321.png" width="340" alt="Techanv Consulting — Transparent. Integrity. Trust." />
+  <img src="assets/We_believe_in.avif" width="340" alt="Techanv Consulting — Transparent. Integrity. Trust." />
 </div>
 
 <br />
