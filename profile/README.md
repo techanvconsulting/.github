@@ -1,40 +1,37 @@
-<h1 align="center">
-<br>
-<img src=assets/techanv.png>
-<br>
-<strong>Welcome to Techanv Consulting 👋</strong>
-</h1>
+<div align="center">
+  <img src="assets/We_believe_in_202604262321.png" width="340" alt="Techanv Consulting — Transparent. Integrity. Trust." />
+</div>
 
-Welcome to Techanv Consulting, where we are committed to providing unparalleled IT solutions with an emphasis on professionalism, security, and excellence. Our mission is to empower businesses of all sizes with cutting-edge technology while maintaining the highest standards of integrity and trust.
+<br />
 
-## About Us
+<div align="center">
 
-Techanv Consulting stands as a premier provider of customized management software solutions, dedicated to assisting businesses in streamlining operations, enhancing security measures, and driving growth. Our team of seasoned experts combines technical proficiency with industry knowledge to deliver tailored solutions that surpass expectations.
+# Techanv Consulting
 
-### Cybersecurity Services
+**Open Source &nbsp;·&nbsp; AI-First &nbsp;·&nbsp; Security &nbsp;·&nbsp; Transparent**
 
-Techanv specializes in:
+</div>
 
-- Threat Identification and Mitigation
-- Network Security Architecture
-- Web Application Security
-- Data Protection and Encryption
-- Secure Wi-Fi Implementation
-- Security Consulting and Risk Assessment
+---
 
-With a proven track record and hundreds of satisfied clients, Techanv stands as your trusted partner in fortifying your digital defenses.
+We build technology that empowers businesses — fast, safe, and smart. From cybersecurity architecture to intelligent AI platforms, every engagement is grounded in transparency, integrity, and trust.
 
-### Why Choose Techanv?
+### What We Do
 
-- **Certified Professionals:** Our team holds industry-leading certifications and stays ahead of cybersecurity trends and technologies.
-- **Global Reach:** With experience serving companies worldwide, Techanv offers security solutions tailored to diverse business environments.
-- **24/7 Support:** Count on Techanv for round-the-clock support to address any security concerns or emergencies.
+| Domain | Services |
+|--------|----------|
+| **Cybersecurity** | Threat detection · Network security · Web app security · Risk assessment |
+| **AI Platforms** | Open-source AI tooling · Secure integrations · Production-grade deployments |
+| **Consulting** | Architecture review · Data protection · Secure Wi-Fi · Compliance advisory |
 
-## Get In Touch
+---
 
-For inquiries or to discuss how we can help secure and empower your business, please don't hesitate to reach out.
+<div align="center">
 
-- **Email:** contact@techanv.com
-- **Location:** Vadodara, Gujarat, India
+**Certified professionals. Global reach. 24/7 support.**
 
-© 2024 Techanv Consulting. All Rights Reserved.
+[contact@techanv.com](mailto:contact@techanv.com) &nbsp;·&nbsp; Vadodara, Gujarat, India
+
+<sub>© 2025 Techanv Consulting. All Rights Reserved.</sub>
+
+</div>
